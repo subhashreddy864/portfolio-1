@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    border: 1px;
+    background-color: rgb(157, 193, 181);
+}
+#cap{
+    font-style: oblique;
+    color: red;
+    background-color: rgb(151, 162, 129);
+    
+}
+#bio {
+    font-size: 20px;
+    border-radius: 200px;
+    border-color: black;
+    float: left;
+    padding: 30px;
+}
+#photo{
+    float: right;
+    width: 200px;
+    height: 220px;
+    padding: 2px;
+}
+#marq{
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: rgb(194, 210, 210);
+    padding: 1px;
+}
+#batsmen{
+    width: 250px;
+    height: 200px;
+    align-self: center;
+}
+#sachin{
+    background-color: antiquewhite;
+    border: 5px;
+    padding: 5px;
+    padding-bottom: 2px;
+}
+#family{
+    background-color: beige;
+    border-width: 0.8ex;
+    padding: 3px;
+}
+#biblio{
+    background-color: blanchedalmond;
+    padding: 3px;
+}
+#footer{
+    font-size: 0.8cm;
+    background-color: antiquewhite;
+}
+#foot{
+    background-color: rgb(155, 185, 211);
+    font-style: normal;
+    font-size: medium;
+}
+#ref{
+    font-size: 20px;
+
+}
